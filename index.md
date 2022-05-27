@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ## Robust Semantic Segmentation with Superpixel-Mix
+## Robust Semantic Segmentation with Superpixel-Mix
 <div align=center><font size='6' color=green> Robust Semantic Segmentation with Superpixel-Mix </font></div>
 
 <center>
