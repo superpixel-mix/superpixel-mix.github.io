@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## Robust Semantic Segmentation with Superpixel-Mix
 
-You can use the [editor on GitHub](https://github.com/watershedmix/superpixel-mix.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<center>
+<font color=blue>Yufei Hu<sup>a,∗</sup>, Nacim Belkhir<sup>b</sup>, Jesus Angulo<sup>c</sup>, Angela Yao<sup>d</sup>, Gianni Franchi<sup>a,∗</sup></font>
+</center>
+<center>
+<sup>a</sup>[yufei.hu.2021,gianni.franchi]@ensta-paris.fr, U2IS, ENSTA Paris, Institut Polytechnique de Paris
+</center>
+<center>
+<sup>b</sup>nacim.belkhir@safrangroup.com, Safrantech, Safran Group
+</center>
+<center>
+<sup>c</sup>jesus.angulo@mines-paristech.fr, CMM, Mines ParisTech, PSL Research University
+</center>
+<center>
+<sup>d</sup>ayao@comp.nus.edu.sg,School of Computing National University of Singapore
+</center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Paper</font>](https://www.bmvc2021-virtualconference.com/assets/papers/0509.pdf) &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Code</font>]( https://github.com/giannifranchi/deeplabv3-superpixelmix)
+
+
 
 ### Markdown
 
