@@ -30,3 +30,11 @@ Along with predictive performance and runtime speed, robustness is a key require
 ![](./images/NAO_deeplabv3plus.png)
 ![](./images/segmentation.png)
 
+### OOD detection
+![](./images/NAO_deeplabv3plus.png)
+![](./images/segmentation.png)
+
+### Semi-supervised learning
+![](./images/NAO_deeplabv3plus.png)
+![](./images/segmentation.png)
+
