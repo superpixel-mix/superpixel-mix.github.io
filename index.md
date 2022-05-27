@@ -1,7 +1,7 @@
 ## Robust Semantic Segmentation with Superpixel-Mix
 
 <center>
-<font color=blue>Gianni Franchi<sup>1</sup>, Nacim Belkhir<sup>2</sup>, Mai Lan Ha<sup>3</sup>, Yufei Hu<sup>1</sup>, Andrei Bursuc<sup>4</sup></font>, Volker Blanz<sup>3</sup></font>, Angela Yao<sup>5</sup></font>
+<font color=blue>Gianni Franchi<sup>1</sup>, Nacim Belkhir<sup>2</sup>, Mai Lan Ha<sup>3</sup>, Yufei Hu<sup>1</sup>, Andrei Bursuc<sup>4</sup>, Volker Blanz<sup>3</sup>, Angela Yao<sup>5</sup></font>
 </center>
 <center>
 <sup>1</sup>U2IS ENSTA Paris Institut Polytechnique de Paris
