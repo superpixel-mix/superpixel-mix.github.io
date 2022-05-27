@@ -1,5 +1,6 @@
 ## Robust Semantic Segmentation with Superpixel-Mix
 
+<div align=center><font size='6' color=green> Robust Semantic Segmentation with Superpixel-Mix </font></div>
 <center>
 <font color=blue>Gianni Franchi<sup>1</sup>, Nacim Belkhir<sup>2</sup>, Mai Lan Ha<sup>3</sup>, Yufei Hu<sup>1</sup>, Andrei Bursuc<sup>4</sup>, Volker Blanz<sup>3</sup>, Angela Yao<sup>5</sup></font>
 </center>
@@ -20,7 +21,7 @@
 </center>
 <div align=center><font size='6' color=red> BMVC2021 </font></div>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Paper</font>](https://www.bmvc2021-virtualconference.com/assets/papers/0509.pdf) &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Code</font>]( https://github.com/giannifranchi/deeplabv3-superpixelmix)&nbsp; &nbsp; &nbsp; &nbsp;[<font size=6>Dataset</font>](https://drive.google.com/file/d/1pKdlglcvsGseLzS1MX8SdjzQO2o1KZm6/view?usp=sharing)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Paper</font>](https://www.bmvc2021-virtualconference.com/assets/papers/0509.pdf) &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Code</font>]( https://github.com/giannifranchi/deeplabv3-superpixelmix)&nbsp; &nbsp; &nbsp; &nbsp;[<font size=6>Dataset</font>](https://drive.google.com/file/d/1pKdlglcvsGseLzS1MX8SdjzQO2o1KZm6/view?usp=sharing)
 
 
 
