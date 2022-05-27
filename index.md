@@ -4,19 +4,19 @@
 <font color=blue>Gianni Franchi<sup>1</sup>, Nacim Belkhir<sup>2</sup>, Mai Lan Ha<sup>3</sup>, Yufei Hu<sup>1</sup>, Andrei Bursuc<sup>4</sup>, Volker Blanz<sup>3</sup>, Angela Yao<sup>5</sup></font>
 </center>
 <center>
-<sup>1</sup>U2IS ENSTA Paris Institut Polytechnique de Paris
+<sup>1</sup> U2IS ENSTA Paris Institut Polytechnique de Paris
 </center>
 <center>
-<sup>2</sup>Safrantech, Safran Group
+<sup>2</sup> Safrantech, Safran Group
 </center>
 <center>
 <sup>3</sup> Department of Computer Science University of Siegen
 </center>
 <center>
-<sup>4</sup>valeo.ai
+<sup>4</sup> valeo.ai
 </center>
 <center>
-<sup>5</sup>School of Computing National University of Singapore
+<sup>5</sup> School of Computing National University of Singapore
 </center>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Paper</font>](https://www.bmvc2021-virtualconference.com/assets/papers/0509.pdf) &nbsp; &nbsp; &nbsp; &nbsp; [<font size=6>Code</font>]( https://github.com/giannifranchi/deeplabv3-superpixelmix)
