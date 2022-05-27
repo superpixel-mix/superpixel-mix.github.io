@@ -1,5 +1,4 @@
 ## <center> Robust Semantic Segmentation with Superpixel-Mix</center>
-<div align=center><font size='6' color=green> Robust Semantic Segmentation with Superpixel-Mix </font></div>
 
 <center>
 <font color=blue>Gianni Franchi<sup>1</sup>, Nacim Belkhir<sup>2</sup>, Mai Lan Ha<sup>3</sup>, Yufei Hu<sup>1</sup>, Andrei Bursuc<sup>4</sup>, Volker Blanz<sup>3</sup>, Angela Yao<sup>5</sup></font>
